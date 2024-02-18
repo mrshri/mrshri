@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shri Nivas
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on JavaScript Topics
+- 🌱 I’m currently learning JavaScript & React Js
+- 💞️ I’m looking to collaborate on JavaScript & React Js Topics
 
 
 <!---
