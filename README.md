@@ -33,20 +33,17 @@ Currently, I'm working as a **Senior Systems Engineer** at Infosys, where I focu
 #### Tools:
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Fiddler](https://img.shields.io/badge/Fiddler-2E7D32?style=for-the-badge&logo=fiddler&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats:
-
-![mrshri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshri&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshri&layout=compact&theme=radical&langs_count=6&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
+add more tools like postman, fiddler,vs code
 ---
 
 ### 🏆 Achievements:
