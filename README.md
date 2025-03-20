@@ -40,17 +40,11 @@ Currently, I'm working as a **Senior Systems Engineer** at Infosys, where I focu
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
----
-
-add more tools like postman, fiddler,vs code
 ---
 
 ### 🏆 Achievements:
 - 🎉 **2+ years of experience** as a .NET developer.
 - 🔧 Contributed to several **open-source** projects and libraries.
-- 🏅 Achieved **top rankings** in coding assessments, including the **IBM Application Developer** exam.
-
 ---
 
 ### 💬 Let's Connect:
