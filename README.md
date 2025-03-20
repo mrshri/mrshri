@@ -41,7 +41,16 @@ Currently, I'm working as a **Senior Systems Engineer** at Infosys, where I focu
 ![Visual Studio](https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ---
+### 📊 GitHub Stats:
 
+![mrshri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshri&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshri&layout=compact&theme=radical&langs_count=6&hide=c%2B%2B,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
 ### 🏆 Achievements:
 - 🎉 **2+ years of experience** as a .NET developer.
 - 🔧 Contributed to several **open-source** projects and libraries.
