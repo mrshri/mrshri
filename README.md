@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/mrshri?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/mrshri?style=social)
-![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=mrshri.mrshri)
+
 
 ---
 
@@ -14,7 +14,7 @@ Currently, I'm working as a **Senior Systems Engineer** at Infosys, where I focu
 
 - 💻 Currently working on: **Modern Web APIs** and **Cloud Solutions**.
 - 🌱 I’m learning **Microservices Architecture** and **Azure Cloud**.
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/yourprofile)** | **Email: mrshri404@gmail.com**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/shrinivas3)** | **Email: mrshri404@gmail.com**
 
 ---
 
@@ -27,10 +27,11 @@ Currently, I'm working as a **Senior Systems Engineer** at Infosys, where I focu
 
 #### Frameworks:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET%20Web%20API-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
 #### Tools:
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -42,7 +43,9 @@ Currently, I'm working as a **Senior Systems Engineer** at Infosys, where I focu
 
 ![mrshri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrshri&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshri&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrshri&layout=compact&theme=radical&langs_count=6&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
@@ -55,10 +58,8 @@ Currently, I'm working as a **Senior Systems Engineer** at Infosys, where I focu
 
 ### 💬 Let's Connect:
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shrinivas3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-
-[![GitHub]([https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrshri](https://github.com/mrshri))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrinivas3)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrshri)
 ---
 
 ### ⚡ Fun Fact:
