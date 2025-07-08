@@ -1,4 +1,4 @@
-# Hi there, I'm Shri! 👋
+# Hi there, I'm Shri Nivas! 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/mrshri?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/mrshri?style=social)
