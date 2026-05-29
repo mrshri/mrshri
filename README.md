@@ -14,7 +14,7 @@ Currently, I'm working as a **Senior Systems Engineer** at Infosys, where I focu
 
 - 💻 Currently working on: **Modern Web APIs** and **Cloud Solutions**.
 - 🌱 I’m learning **Microservices Architecture** and **Azure Cloud**.
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/shrinivas3)** | **Email: mrshri404@gmail.com**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/shrinivas3)** | **Email: shrinivas71995@gmail.com**
 
 ---
 
